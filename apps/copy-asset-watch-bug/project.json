@@ -1,0 +1,9 @@
+{
+  "name": "copy-asset-watch-bug",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/copy-asset-watch-bug/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project copy-asset-watch-bug --web",
+  "targets": {}
+}
